@@ -18,12 +18,17 @@ A backup script that creates compressed archives of specified directories and al
 Usage: `./backup_script.sh`
 Permissions: `chmod +x backup_script.sh`
 
+![backup](img/backup.png)
+
 ###  3. `trivia.sh`
 
 A trivia game script that fetches questions from the Open Trivia Database API and presents them to the user. The user can answer questions and earn points based on the difficulty of the question.
 
 Usage: `./trivia.sh`
 Permissions: `chmod +x trivia.sh`
+
+![trivia](img/trivia1.png)
+![trivia](img/trivia2.png)
 
 ###  4. `image_thumbnail.sh`
 
